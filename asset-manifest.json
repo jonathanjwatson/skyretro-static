@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/skyretro-static/static/css/main.ae0d958a.chunk.css",
-    "main.js": "/skyretro-static/static/js/main.be9b4a14.chunk.js",
-    "main.js.map": "/skyretro-static/static/js/main.be9b4a14.chunk.js.map",
-    "runtime-main.js": "/skyretro-static/static/js/runtime-main.16c9d28f.js",
-    "runtime-main.js.map": "/skyretro-static/static/js/runtime-main.16c9d28f.js.map",
-    "static/js/2.3d220457.chunk.js": "/skyretro-static/static/js/2.3d220457.chunk.js",
-    "static/js/2.3d220457.chunk.js.map": "/skyretro-static/static/js/2.3d220457.chunk.js.map",
-    "index.html": "/skyretro-static/index.html",
-    "static/css/main.ae0d958a.chunk.css.map": "/skyretro-static/static/css/main.ae0d958a.chunk.css.map",
-    "static/js/2.3d220457.chunk.js.LICENSE.txt": "/skyretro-static/static/js/2.3d220457.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/skyretro-static/static/media/01-no-red.0bb3fa50.jpg",
-    "static/media/architect.befb6c86.png": "/skyretro-static/static/media/architect.befb6c86.png",
-    "static/media/productive.e7f4ec9a.png": "/skyretro-static/static/media/productive.e7f4ec9a.png",
-    "static/media/sky_retro_logo.6bb31a53.png": "/skyretro-static/static/media/sky_retro_logo.6bb31a53.png",
-    "static/media/tool.dc49439e.png": "/skyretro-static/static/media/tool.dc49439e.png",
-    "static/media/unlimited.6f262e86.png": "/skyretro-static/static/media/unlimited.6f262e86.png"
+    "main.css": "/static/css/main.7d7da308.chunk.css",
+    "main.js": "/static/js/main.dcccf477.chunk.js",
+    "main.js.map": "/static/js/main.dcccf477.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.14ff4aeb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.14ff4aeb.js.map",
+    "static/js/2.3d220457.chunk.js": "/static/js/2.3d220457.chunk.js",
+    "static/js/2.3d220457.chunk.js.map": "/static/js/2.3d220457.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7d7da308.chunk.css.map": "/static/css/main.7d7da308.chunk.css.map",
+    "static/js/2.3d220457.chunk.js.LICENSE.txt": "/static/js/2.3d220457.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/01-no-red.0bb3fa50.jpg",
+    "static/media/architect.befb6c86.png": "/static/media/architect.befb6c86.png",
+    "static/media/productive.e7f4ec9a.png": "/static/media/productive.e7f4ec9a.png",
+    "static/media/sky_retro_logo.6bb31a53.png": "/static/media/sky_retro_logo.6bb31a53.png",
+    "static/media/tool.dc49439e.png": "/static/media/tool.dc49439e.png",
+    "static/media/unlimited.6f262e86.png": "/static/media/unlimited.6f262e86.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.16c9d28f.js",
+    "static/js/runtime-main.14ff4aeb.js",
     "static/js/2.3d220457.chunk.js",
-    "static/css/main.ae0d958a.chunk.css",
-    "static/js/main.be9b4a14.chunk.js"
+    "static/css/main.7d7da308.chunk.css",
+    "static/js/main.dcccf477.chunk.js"
   ]
 }
