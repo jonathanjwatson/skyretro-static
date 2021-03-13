@@ -1,0 +1,66 @@
+h2 strong {
+  display: block;
+}
+
+.icon {
+  height: 9em;
+  width: 9em;
+}
+
+.feature-green {
+  background-color: #3f9c4b;
+}
+
+.feature-orange {
+  background-color: #f88342;
+}
+
+.feature-purple {
+  background-color: #665db9;
+}
+
+.feature-dk-blue {
+  background-color: #0474c2;
+}
+
+.feature-lt-grey {
+  background-color: #6c757d;
+}
+
+.feature-lt-blue {
+  background-color: #36b4ed;
+}
+
+.feature-text {
+  color: #ffffff;
+}
+
+.feature-card {
+  max-width: 320px;
+  min-height: 240px;
+  border-radius: 18px;
+}
+
+@media (max-width: 1199px) {
+  .col-md-3 {
+    flex: 0 0 30%;
+    max-width: 30%;
+  }
+
+  .container {
+    max-width: 1140px;
+  }
+}
+
+@media (max-width: 1128px) {
+  .feature-card {
+    min-height: 312px;
+  }
+}
+
+@media (max-width: 768px) {
+  .col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}

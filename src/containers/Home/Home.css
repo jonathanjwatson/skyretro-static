@@ -1,0 +1,61 @@
+.home-header {
+  background: url("../../assets/images/01-compressed.jpeg");
+  background-position: 50% 25%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  padding: 40px 0 40px 0;
+}
+
+.btn-red {
+  background-color: #c00e0c;
+  border-color: #c00e0c;
+  color: #ffffff;
+  font-size: 2rem;
+  border-radius: 10px;
+}
+
+.btn-red:hover {
+  background-color: #880000;
+  border-color: #880000;
+  color: #ffffff;
+}
+
+.link {
+  text-decoration: underline;
+}
+
+.home-main {
+  background: url("../../assets/images/01-compressed.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+
+.dark-gray-p {
+  background-color: #343a40;
+  color: white;
+  padding: 10px;
+  border-radius: 30px;
+}
+
+#footer-btn {
+  font-size: 2.5rem;
+}
+
+#pdf-link {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .home-header {
+    background: url("../../assets/images/01-no-red.jpg");
+    background-position: 50% 25%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffffff;
+    padding: 40px 0 40px 0;
+  }
+}

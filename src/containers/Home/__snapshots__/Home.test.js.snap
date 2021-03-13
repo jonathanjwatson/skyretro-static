@@ -1,0 +1,319 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders each Home correctly matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="home-header"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row description-box"
+      >
+        <div
+          class="col"
+        >
+          <h1
+            class="center font-weight-bold"
+          >
+            Simple, Free Agile Project Management
+          </h1>
+          <h4
+            class="center font-weight-light mt-3"
+          >
+            Sky Retro makes retrospectives simple, easy,
+          </h4>
+          <h4
+            class="center font-weight-light"
+          >
+            and NEVER hidden fees!
+          </h4>
+        </div>
+      </div>
+      <div
+        class="row description-box"
+      >
+        <div
+          class="col center"
+        >
+          <a
+            class="center"
+            href="/login"
+          >
+            <button
+              class="font-weight-bold btn btn-red px-3 py-2"
+            >
+              Start Building Retros
+            </button>
+          </a>
+        </div>
+      </div>
+      <div
+        class="row"
+      >
+        <div
+          class="col center"
+        >
+          <a
+            href="/resources/retrospectives"
+            id="pdf-link"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <h4>
+              How can I implement Retros?
+            </h4>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="container"
+  >
+    <div
+      class="row center d-flex align-items-center justify-content-around mt-4"
+    >
+      <div
+        class="col-12 col-sm-3 feature-card feature-green d-flex flex-column align-items-center my-4
+    p-1"
+      >
+        <img
+          alt="lock"
+          class="icon justify-content-center"
+          src="free.png"
+        />
+        <h2
+          class="feature-text text-wrap justify-content-center"
+        >
+          <strong>
+            Completely Free,
+          </strong>
+          <strong>
+            No Hidden Fees
+          </strong>
+        </h2>
+      </div>
+      <div
+        class="col-12 col-sm-3 feature-card feature-orange d-flex flex-column align-items-center my-4
+    p-1"
+      >
+        <img
+          alt="whiteboard"
+          class="icon justify-content-center"
+          src="whiteboard.png"
+        />
+        <h2
+          class="feature-text text-wrap justify-content-center"
+        >
+          <strong>
+            Digital
+          </strong>
+          <strong>
+            Whiteboard
+          </strong>
+        </h2>
+      </div>
+      <div
+        class="col-12 col-sm-3 feature-card feature-purple d-flex flex-column align-items-center my-4
+    p-1"
+      >
+        <img
+          alt="unlimited"
+          class="icon justify-content-center"
+          src="unlimited.png"
+        />
+        <h2
+          class="feature-text text-wrap justify-content-center"
+        >
+          <strong>
+            Unlimited, Simple
+          </strong>
+          <strong>
+            To Use Boards
+          </strong>
+        </h2>
+      </div>
+    </div>
+    <div
+      class="row center d-flex align-items-center justify-content-around mb-4"
+    >
+      <div
+        class="col-12 col-sm-3 feature-card feature-dk-blue d-flex flex-column align-items-center my-4
+    p-1"
+      >
+        <img
+          alt="productive"
+          class="icon justify-content-center"
+          src="productive.png"
+        />
+        <h2
+          class="feature-text text-wrap justify-content-center"
+        >
+          <strong>
+            Be More
+          </strong>
+          <strong>
+            Productive
+          </strong>
+        </h2>
+      </div>
+      <div
+        class="col-12 col-sm-3 feature-card feature-lt-grey d-flex flex-column align-items-center my-4
+    p-1"
+      >
+        <img
+          alt="architect"
+          class="icon justify-content-center"
+          src="architect.png"
+        />
+        <h2
+          class="feature-text text-wrap justify-content-center"
+        >
+          <strong>
+            Built by Engineers
+          </strong>
+          <strong>
+            for Engineers
+          </strong>
+        </h2>
+      </div>
+      <div
+        class="col-12 col-sm-3 feature-card feature-lt-blue d-flex flex-column align-items-center my-4
+    p-1"
+      >
+        <img
+          alt="tool"
+          class="icon justify-content-center"
+          src="tool.png"
+        />
+        <h2
+          class="feature-text text-wrap justify-content-center"
+        >
+          <strong>
+            The Right Tool For
+          </strong>
+          <strong>
+            Your Retro
+          </strong>
+        </h2>
+      </div>
+    </div>
+  </div>
+  <div
+    class="home-main p-3"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row d-flex justify-content-start my-2"
+      >
+        <div
+          class="col-8"
+        >
+          <h1
+            class="font-weight-bold text-left"
+          >
+            Why is SkyRetro better?
+          </h1>
+          <div
+            class="dark-gray-p"
+          >
+            <p
+              class="font-italic mb-0"
+            >
+              Sky Retro is built to help you focus on helping your team improve. We aren’t as fancy as some retro apps. But even without those “gee-whiz” buttons and menus, we provide a consistent, clean interface that you can use week in and week out. We are constantly taking feedback from users like you so we have a tool that is simplistic , usable and meets 
+              <strong>
+                your
+              </strong>
+               real needs.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="row d-flex justify-content-end my-4"
+      >
+        <div
+          class="col-8"
+        >
+          <h1
+            class="font-weight-bold text-left"
+          >
+            Built by Engineers for Engineers…
+          </h1>
+          <div
+            class="dark-gray-p"
+          >
+            <p
+              class="font-italic mb-0"
+            >
+              When we lost access to our Whiteboard, and sticky note method, our retrospectives went out the window. We tried to find a solution but every service costs, has a limited number of boards, or is like trying to hammer a screw… The fully digital world we find ourselves in doesn’t allow for the old method of agile retrospectives. The simplicity of white boards and sticky notes is a way of the past, and finding an answer to these problems was our inspiration for creating SkyRetro.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div
+        class="row d-flex justify-content-start my-2"
+      >
+        <div
+          class="col-8"
+        >
+          <h1
+            class="font-weight-bold text-left"
+          >
+            Why Retrospectives?
+          </h1>
+          <div
+            class="dark-gray-p"
+          >
+            <p
+              class="font-italic mb-0"
+            >
+              Being efficient, minimizing waste and hitting goals as developers and project managers has NEVER been more important OR more challenging than it is today. Retrospectives allow us to come together as a team, review what went well, what we need to improve, and how we will do better next time. They can be a little daunting at first, but can rapidly improve productivity, increase your output, drive higher quality and inspire improvement in your team.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="white-row"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-12 col-lg-7 p-3"
+        >
+          <h1
+            class="font-weight-bold center"
+          >
+            Ready to start saving time, money, and effort?
+          </h1>
+        </div>
+        <div
+          class="col-12 col-lg-5 d-flex justify-content-center p-3"
+        >
+          <a
+            class="center"
+            href="/login"
+          >
+            <button
+              class="font-weight-bold btn btn-red px-5 py-3"
+              id="footer-btn"
+            >
+              SIGN UP NOW
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
